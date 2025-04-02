@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is KongE and<br>I'm a Game Client developer (Most using Unity & C#)<br>At Daegu Software Meister High School.</h2>
 
 ###
-
+<h3 align="left">Private Repository not included</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kong2ys&hide_title=ture&hide_rank=ture&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kong2ys&locale=en&hide_title=ture&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
